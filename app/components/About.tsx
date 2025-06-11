@@ -19,7 +19,7 @@ export default function About({ id }: SectionProps) {
                 priority
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end p-6">
-                <h2 className="text-white text-lg font-medium">Full-stack developer based in Uganda and UAE</h2>
+                <h2 className="absolute inset-0 bg-gradient-to-r from-blue-600 to-cyan-500 group-hover:from-blue-700 group-hover:to-cyan-600 z-0">Full-stack developer based in Uganda and UAE</h2>
               </div>
             </div>
           </div>

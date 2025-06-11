@@ -45,7 +45,7 @@ export default function Hero({ id }: SectionProps) {
           {/* Heading */}
           <h1 className="text-4xl md:text-6xl font-bold mb-4 md:mb-6">
             <span className="block text-gray-900">Hi, I&apos;m </span>
-            <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-cyan-600">Kanyesigye Nathan</span>
+            <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-cyan-600">Kanyesigye Nathane</span>
           </h1>
           
           {/* TypeAnimation */}

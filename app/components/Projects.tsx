@@ -31,7 +31,7 @@ const projects: Project[] = [
       "Health metric tracking",
       "Responsive mobile design"
     ],
-    codeUrl: "https://github.com/Katambuka"
+    codeUrl: "https://diabetes-guide.vercel.app/"
   },
   {
     title: "Restaurant Menu Management System",
@@ -44,7 +44,7 @@ const projects: Project[] = [
       "Admin control panel",
       "Tablet-friendly interface"
     ],
-    codeUrl: "https://github.com/Katambuka"
+    codeUrl: "https://mypwdd340.vercel.app/"
   },
   {
     title: "Kubernetes Cluster Configuration",
@@ -57,12 +57,12 @@ const projects: Project[] = [
       "Resource monitoring",
       "CI/CD pipeline integration"
     ],
-    codeUrl: "https://github.com/Katambuka"
+    codeUrl: "https://www.youtube.com/watch?v=tRFFoUjim3s"
   },
   {
     title: "SQL Database Optimization Project",
     description: "Performance tuning and query optimization for enterprise databases",
-    tags: ["SQL Server", "T-SQL", "Query Tuning", "SSMS"],
+    tags: ["SQL Server", "T-SQL", "Query Tuning", "Mysql"],
     image: "/images/sqlserver.jpg",
     features: [
       "Query execution plan analysis",
@@ -70,7 +70,7 @@ const projects: Project[] = [
       "Stored procedure refactoring",
       "ETL process improvement"
     ],
-    codeUrl: "https://github.com/Katambuka"
+    codeUrl: "https://www.youtube.com/watch?v=z181Pp19jkI&t=59s"
   }
 ];
 

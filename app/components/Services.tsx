@@ -198,7 +198,7 @@ const ServicesSection: React.FC<ServicesProps> = ({ id }) => {
                   </div>
 
                   <button className="flex items-center text-blue-600 dark:text-blue-400 font-medium group mt-2">
-                     <Link href={'https://github.com/Katambuka'}>View My Github </Link> 
+                     <Link href={'https://diabetes-guide.vercel.app/'}>View My Github </Link> 
                     <FiArrowRight className="ml-2 transition-transform group-hover:translate-x-1" />
                   </button>
                 </div>

@@ -68,7 +68,6 @@ const projects: Project[] = [
       "Query execution plan analysis",
       "Index optimization",
       "Stored procedure refactoring",
-      "ETL process improvement"
     ],
     codeUrl: "https://www.youtube.com/watch?v=z181Pp19jkI&t=59s"
   }

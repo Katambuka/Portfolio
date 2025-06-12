@@ -22,7 +22,7 @@ interface ServicesProps {
 const services: Service[] = [
   {
     title: "Web & App Development",
-    price: "From $400",
+    price: "From $50",
     icon: <FaCode className="text-4xl" />,
     desc: "Custom-built websites, React apps, and full-stack solutions using modern frameworks.",
     technologies: ["React", "Next.js", "Node.js", "TypeScript", "Tailwind CSS"],
@@ -36,20 +36,19 @@ const services: Service[] = [
 
 {
   title: "Testing & Quality Assurance",
-  price: "From $400",
+  price: "From $50",
   icon: <FaBug className="text-4xl" />,
   desc: "Focused unit testing using Python’s pytest to ensure reliable and maintainable code.",
   technologies: ["pytest", "Python"],
   features: [
     "Comprehensive unit tests",
-    "Test-driven development (TDD) support",
     "Bug identification and prevention",
     "Clear and maintainable test scripts"
   ]
 },
   {
     title: "Database Design & Optimization",
-    price: "From $400",
+    price: "From $50",
     icon: <FaDatabase className="text-4xl" />,
     desc: "High-performance relational database design and implementation.",
     technologies: ["PostgreSQL", "MySQL", "SQL Server", "MongoDB", ""],
@@ -62,7 +61,7 @@ const services: Service[] = [
   },
   {
     title: "Cloud Deployment & DevOps",
-    price: "From $400",
+    price: "From $50",
     icon: <FaCloud className="text-4xl" />,
     desc: "Deploy and manage scalable apps with modern infrastructure.",
     technologies: ["AWS", "Docker", "Kubernetes", "Terraform"],
@@ -75,7 +74,7 @@ const services: Service[] = [
   },
   {
     title: "UI/UX Design",
-    price: "From $400",
+    price: "From $50",
     icon: <FaPaintBrush className="text-4xl" />,
     desc: "Beautiful, user-friendly interfaces with attention to detail.",
     technologies: ["Figma", "Adobe XD", "User Testing", "Prototyping", "WCAG"],
@@ -88,7 +87,7 @@ const services: Service[] = [
   },
  {
   title: "Full-Stack Web Development",
-  price: "From $400",
+  price: "From $50",
   icon: <FaLaptopCode className="text-4xl" />,
   desc: "Dynamic, responsive web applications using modern frameworks and clean code architecture.",
   technologies: ["Next.js", "React", "Node.js", "PostgreSQL", "Tailwind CSS"],
@@ -102,7 +101,7 @@ const services: Service[] = [
 
 {
     title: "Data Analysis & Reporting",
-    price: "From $400",
+    price: "From $50",
     icon: <FaSearch className="text-4xl" />,
     desc: "Clear business insights from complex datasets.",
     technologies: ["Python", "SQL", "Power BI", "Excel"],

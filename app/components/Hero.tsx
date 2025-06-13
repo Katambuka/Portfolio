@@ -4,7 +4,6 @@ import { motion } from 'framer-motion';
 import dynamic from 'next/dynamic';
 import { FiDownload, FiEye, FiFileText, FiArrowRight } from 'react-icons/fi';
 
-// Dynamically import TypeAnimation to reduce initial bundle size
 const TypeAnimation = dynamic(
   () => import('react-type-animation').then((mod) => mod.TypeAnimation),
   { 
@@ -73,10 +72,7 @@ export default function Hero({ id }: SectionProps) {
               className="font-medium px-4 py-2 rounded-lg text-gray-700 bg-gray-100"
             />
           </div>
-          
-          {/* Button group */}
           <div className="flex flex-wrap justify-center gap-3 md:gap-4">
-            {/* Primary CTA - Contact Button */}
             <motion.a
               href="#contact"
               whileHover={{ y: -3 }}
